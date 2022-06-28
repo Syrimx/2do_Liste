@@ -11,7 +11,7 @@
 ```bash
 	npm start run
 ```
-3. Ist der Befehl ausgeführt worden kann innerhalb des Browsers zu **localhost:3000** navigiert werden um die App aufzurufen.
+3. Sind die Befehle ausgeführt worden kann innerhalb des Browsers zu **localhost:3000** navigiert werden um die App aufzurufen.
 
 ## Funtionsumfang der Applikation
 ---------------------------------
