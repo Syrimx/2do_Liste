@@ -5,11 +5,11 @@
 1. Möchte man diese App ausführen kann man in den Projektordner **"2Do"** wechseln und anschließend ein Terminal öffnen.
 2. Wenn das Terminal innerhalb des Projektordners geöffnet ist gibt man folgende Befehle ein:
 ```bash
-	npm install
+npm install
 ```
 
 ```bash
-	npm start run
+npm start run
 ```
 3. Sind die Befehle ausgeführt worden kann innerhalb des Browsers zu **localhost:3000** navigiert werden um die App aufzurufen.
 
